@@ -1,0 +1,80 @@
+{
+    "Labels": [
+        {
+            "Name": "Clothing",
+            "Confidence": 99.92801666259766,
+            "Instances": [],
+            "Parents": []
+        },
+        {
+            "Name": "Apparel",
+            "Confidence": 99.92801666259766,
+            "Instances": [],
+            "Parents": []
+        },
+        {
+            "Name": "Evening Dress",
+            "Confidence": 99.68731689453125,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Robe"
+                },
+                {
+                    "Name": "Gown"
+                },
+                {
+                    "Name": "Fashion"
+                },
+                {
+                    "Name": "Clothing"
+                }
+            ]
+        },
+        {
+            "Name": "Gown",
+            "Confidence": 99.68731689453125,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Fashion"
+                },
+                {
+                    "Name": "Clothing"
+                }
+            ]
+        },
+        {
+            "Name": "Robe",
+            "Confidence": 99.68731689453125,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Fashion"
+                },
+                {
+                    "Name": "Clothing"
+                }
+            ]
+        },
+        {
+            "Name": "Fashion",
+            "Confidence": 99.68731689453125,
+            "Instances": [],
+            "Parents": []
+        }
+    ],
+    "LabelModelVersion": "2.0",
+    "ResponseMetadata": {
+        "RequestId": "bf6abe3e-0b37-40fa-a02e-d26a124ec345",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Fri, 01 Oct 2021 02:05:44 GMT",
+            "x-amzn-requestid": "bf6abe3e-0b37-40fa-a02e-d26a124ec345",
+            "content-length": "653",
+            "connection": "keep-alive"
+        },
+        "RetryAttempts": 0
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "Labels": [
+        {
+            "Name": "Person",
+            "Confidence": 99.38166809082031,
+            "Instances": [
+                {
+                    "BoundingBox": {
+                        "Width": 0.41204801201820374,
+                        "Height": 0.7127864956855774,
+                        "Left": 0.5872772336006165,
+                        "Top": 0.2820037305355072
+                    },
+                    "Confidence": 99.38166809082031
+                },
+                {
+                    "BoundingBox": {
+                        "Width": 0.4673714339733124,
+                        "Height": 0.8171182870864868,
+                        "Left": 0.42792993783950806,
+                        "Top": 0.04441690072417259
+                    },
+                    "Confidence": 98.84387969970703
+                },
+                {
+                    "BoundingBox": {
+                        "Width": 0.4410857856273651,
+                        "Height": 0.7900272011756897,
+                        "Left": 0.03257126733660698,
+                        "Top": 0.18334005773067474
+                    },
+                    "Confidence": 98.45808410644531
+                },
+                {
+                    "BoundingBox": {
+                        "Width": 0.2759082019329071,
+                        "Height": 0.7763931751251221,
+                        "Left": 0.20998957753181458,
+                        "Top": 0.07915011793375015
+                    },
+                    "Confidence": 94.98585510253906
+                }
+            ],
+            "Parents": []
+        },
+        {
+            "Name": "Human",
+            "Confidence": 99.38166809082031,
+            "Instances": [],
+            "Parents": []
+        },
+        {
+            "Name": "Clothing",
+            "Confidence": 99.22647857666016,
+            "Instances": [],
+            "Parents": []
+        },
+        {
+            "Name": "Apparel",
+            "Confidence": 99.22647857666016,
+            "Instances": [],
+            "Parents": []
+        }
+    ],
+    "LabelModelVersion": "2.0",
+    "ResponseMetadata": {
+        "RequestId": "2baba7dd-dbda-4d78-bbc2-229c42820a75",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Fri, 01 Oct 2021 02:05:53 GMT",
+            "x-amzn-requestid": "2baba7dd-dbda-4d78-bbc2-229c42820a75",
+            "content-length": "974",
+            "connection": "keep-alive"
+        },
+        "RetryAttempts": 0
+    }
+}

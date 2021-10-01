@@ -1,0 +1,140 @@
+{
+    "Labels": [
+        {
+            "Name": "Sea",
+            "Confidence": 99.95639038085938,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Outdoors"
+                },
+                {
+                    "Name": "Water"
+                },
+                {
+                    "Name": "Nature"
+                }
+            ]
+        },
+        {
+            "Name": "Ocean",
+            "Confidence": 99.95639038085938,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Outdoors"
+                },
+                {
+                    "Name": "Water"
+                },
+                {
+                    "Name": "Nature"
+                }
+            ]
+        },
+        {
+            "Name": "Water",
+            "Confidence": 99.95639038085938,
+            "Instances": [],
+            "Parents": []
+        },
+        {
+            "Name": "Nature",
+            "Confidence": 99.95639038085938,
+            "Instances": [],
+            "Parents": []
+        },
+        {
+            "Name": "Outdoors",
+            "Confidence": 99.95639038085938,
+            "Instances": [],
+            "Parents": []
+        },
+        {
+            "Name": "Sleeve",
+            "Confidence": 97.82003784179688,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Clothing"
+                }
+            ]
+        },
+        {
+            "Name": "Clothing",
+            "Confidence": 97.82003784179688,
+            "Instances": [],
+            "Parents": []
+        },
+        {
+            "Name": "Person",
+            "Confidence": 97.49690246582031,
+            "Instances": [
+                {
+                    "BoundingBox": {
+                        "Width": 0.45084986090660095,
+                        "Height": 0.9576206803321838,
+                        "Left": 0.18578754365444183,
+                        "Top": 0.04207153990864754
+                    },
+                    "Confidence": 96.28831481933594
+                },
+                {
+                    "BoundingBox": {
+                        "Width": 0.019930630922317505,
+                        "Height": 0.08934058994054794,
+                        "Left": 0.051664721220731735,
+                        "Top": 0.31966155767440796
+                    },
+                    "Confidence": 84.19989013671875
+                }
+            ],
+            "Parents": []
+        },
+        {
+            "Name": "Long Sleeve",
+            "Confidence": 97.14836883544922,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Sleeve"
+                },
+                {
+                    "Name": "Clothing"
+                }
+            ]
+        },
+        {
+            "Name": "Sea Waves",
+            "Confidence": 95.73756408691406,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Sea"
+                },
+                {
+                    "Name": "Outdoors"
+                },
+                {
+                    "Name": "Water"
+                },
+                {
+                    "Name": "Nature"
+                }
+            ]
+        }
+    ],
+    "LabelModelVersion": "2.0",
+    "ResponseMetadata": {
+        "RequestId": "452584d0-41d7-4159-93c8-d55247c8b451",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Fri, 01 Oct 2021 02:05:35 GMT",
+            "x-amzn-requestid": "452584d0-41d7-4159-93c8-d55247c8b451",
+            "content-length": "1366",
+            "connection": "keep-alive"
+        },
+        "RetryAttempts": 0
+    }
+}
